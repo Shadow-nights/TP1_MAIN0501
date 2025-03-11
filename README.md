@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-"# My-project" 
+# My-project" 
 =======
 # TP1_MAIN0501
 TP1
